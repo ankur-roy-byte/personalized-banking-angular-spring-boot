@@ -1,5 +1,5 @@
-## 👯 Retail Banking System
-* The	**Retail	Banking	System**	provides	**Microservice	Architecture** based software solution.
+## 👯 Personalized Banking in Angular and Spring-boot 
+* The	**Personalized	Banking	System**	provides	**Microservice	Architecture** based software solution.
 * It provides **high Availability operations** for their client & bank  employees without disruption.
 * Different Microservices like **“Account”, ”Customer” and “Transaction”** etc. are combined together to perform together as  a Uniﬁed application.
 
